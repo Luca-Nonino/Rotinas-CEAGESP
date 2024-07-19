@@ -1,0 +1,4 @@
+pandas
+imaplib
+openpyxl
+requests
